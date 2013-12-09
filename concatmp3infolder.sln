@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concatmp3infolder", "concatmp3infolder\concatmp3infolder.csproj", "{EBBE43A1-55C9-4118-B831-72A318532933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBE43A1-55C9-4118-B831-72A318532933}.Debug|x86.ActiveCfg = Debug|x86
+		{EBBE43A1-55C9-4118-B831-72A318532933}.Debug|x86.Build.0 = Debug|x86
+		{EBBE43A1-55C9-4118-B831-72A318532933}.Release|x86.ActiveCfg = Release|x86
+		{EBBE43A1-55C9-4118-B831-72A318532933}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = concatmp3infolder\concatmp3infolder.csproj
+	EndGlobalSection
+EndGlobal
